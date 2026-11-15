@@ -1,0 +1,16 @@
+Q K^T (raw scores):
+ [[2 0]
+ [0 2]]
+
+Scaled scores (divided by sqrt(d) = sqrt(4) = 2):
+ [[1. 0.]
+ [0. 1.]]
+
+1. Attention weights (after softmax):
+ [[0.7311 0.2689]
+ [0.2689 0.7311]]
+   Row sums: [1. 1.]
+
+2. Final output (weights x V):
+ [[2.0758 3.0758 4.0758 5.0758]
+ [3.9242 4.9242 5.9242 6.9242]]

@@ -1,0 +1,12 @@
+Sentence: ' LeBron James as the NBA player of the United States in Laker and won the NBA Final MVP in 2020.'
+
+Entity text           Label      Start   End   Label meaning
+----------------------------------------------------------------------
+LeBron James          PERSON         1    13   People, including fictional
+NBA                   ORG           21    24   Companies, agencies, institutions, etc.
+the United States     GPE           35    52   Countries, cities, states
+Laker                 GPE           56    61   Countries, cities, states
+MVP                   ORG           84    87   Companies, agencies, institutions, etc.
+2020                  DATE          91    95   Absolute or relative dates or periods
+
+Total entities found: 6
